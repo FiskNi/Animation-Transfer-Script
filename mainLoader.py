@@ -3,7 +3,8 @@
 
 import sys
 
-path = r"G:/#Old/UD1439/AniTransfer/"
+#Insert path to AnimationGUI.ui
+path = r"-path-"
 
 if sys.path.count(path) < 1:
 	sys.path.append(path)
